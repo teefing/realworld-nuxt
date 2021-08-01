@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/layouts",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/home",
+        "_name": "_35715b5e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
+        "_name": "_78497f92"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
+        "_name": "_78497f92"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/profile",
+        "_name": "_1332def7"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/settings",
+        "_name": "_372dded6"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/editor",
+        "_name": "_a9fe2b42"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "/Users/tengfei/code/lagou/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/article",
+        "_name": "_0c05bb78"
+      }
+    ],
+    "_name": "_2328bfd7"
+  }
+]
